@@ -21,5 +21,12 @@
       <valueRequired>true</valueRequired>
     </control>
   </widget>
+  <!-- <widget name="Widget6" type="pivot" subtype="pivot" subtypeClass="lineChart" title="" dataSource="" dataLink="Widget1" drillDownDataSource="" width="200" height="200" sidebarContent="" showSidebar="false" sidebarWidth="" maximized="false" homeRowL="4" homeColL="0" colSpanL="6" rowSpanL="4" showToolbar="true" showToolbarBottomBorder="true" showToolbarOnlyWhenMaximized="false" colorToolbar="#F0F0F0" opacityToolbar="1" backgroundColor="#F0F0F0" opacity="1" theme="" dataColorList="">
+      <control name="" action="applyFilter" target="*" targetProperty="[Measures].[Deaths]" location="dashboard" type="numericRange" controlClass="" label="Deaths Filter" title="" value="" text="" readOnly="false" valueList="" displayList="" activeWhen="">
+        <valueRequired>false</valueRequired>
+        <minimumValue>0</minimumValue>
+        <maximumValue>100000</maximumValue>
+    </control>
+  </widget> -->
 </dashboard>
 </Document></Export>
